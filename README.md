@@ -1,1 +1,1 @@
-# GameCo---Excel-analysis
+# GameCo: Excel analysis
