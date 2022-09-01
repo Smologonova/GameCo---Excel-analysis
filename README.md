@@ -13,3 +13,8 @@ Open source data that was drawn from the website [VGChartz](https://www.vgchartz
 
 
 ## Result 
+[Marketing Plan](https://github.com/Smologonova/GameCo-Excel-analysis/blob/main/IS_Marketing%20Budget%20plan%202017.pdf)
+
+## Key learning experience
+- It is important to consider testing the assumptions that go with the analysis. It allows to determine if conclusions are correctly drawn from the results of the analysis. 
+- The goal of the project, the regional customers, sales over time and best-selling genres were taken into consideration to develop a regional approach of setting goals, focusing on a target audience and developing recommendations for marketing activities.
